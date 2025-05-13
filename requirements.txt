@@ -1,0 +1,9 @@
+jupyter
+xarray
+netcdf4
+h5py
+zarr
+geopandas
+pyarrow
+rasterio
+apache-sedona[spark]
